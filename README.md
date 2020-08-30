@@ -50,15 +50,16 @@ To test the code:
 ```
 npm run test
 ```
-Link to postman routes: (Postman -> Import -> Link -> copy and paste the given link to access the routes)
-```
-https://www.getpostman.com/collections/970b173c18c516bd0f5c
-```
 
 
 ## Postman Screenshots of Endpoints:
+- Buying a Ticket
 ![](https://github.com/rhythm2905/ZomentumBackend/blob/master/ss/Capturepost.PNG)
+- Delete a Ticket
 ![](https://github.com/rhythm2905/ZomentumBackend/blob/master/ss/Capturedelete.PNG)
+- Show details of All Users of Same slot
 ![](https://github.com/rhythm2905/ZomentumBackend/blob/master/ss/Captureshow.PNG)
+- Update timing 
 ![](https://github.com/rhythm2905/ZomentumBackend/blob/master/ss/Captureput.PNG)
+-Get all buyer details
 ![](https://github.com/rhythm2905/ZomentumBackend/blob/master/ss/Captureget.PNG)
