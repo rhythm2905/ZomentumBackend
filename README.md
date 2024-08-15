@@ -1,6 +1,6 @@
 
 # Movie Ticket Booth Interface
-Movie Ticket Booth is a REST Interface for buying, updating, deleting tickets to movie shows. This Application is designed in Node Js and database is managed using MongoDB. 
+Movie Ticket Booth is a REST Interface for buying, updating, deleting tickets to movie shows. This Framework is designed in Node Js and database is managed using MongoDB. 
 ![](https://www.ticketonlinebooking.com/wp-content/uploads/2018/11/movie.jpg)
 
 ## Prerequisite Stack
